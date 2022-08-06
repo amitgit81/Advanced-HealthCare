@@ -1,5 +1,5 @@
 # Advanced Health Care
-#### Build By : DumbGeeks at Hacknagpur
+#### Build By : Amit, Praveen, Sumit
 
 ## Problem Statement
 <p>At some point in life more than 80% population could potentially need a blood donation in their lives.  In 95% accidental cases the lives are lost due to either shortage of blood at time or due to lack of correct blood donation. There is no denying that the blood is available at blood banks but there is vast shortage of Reliable Blood donors in the society. we also currently don’t have any large scale Health Centred Online Platform or Community working for better health and care for the society just like any other Platforms such as LinkedIn, Quora etc. Even today people fear to donate blood because of some myths and misconceptions in the society. WHO stats has shown that in coming 5 to 10 years the deaths due to blood shortage are going to increase by 3-5%. In Diseases like blood cancer or other  related diseases which require blood transufion like anemia, hemophilia, kidney & liver disease, Severe infection,Sickle cell disease many operations couldn’t happen properly or don’t happen in time due to the same non availability of blood on the time. There is an urgent need to tackle with this problem.
